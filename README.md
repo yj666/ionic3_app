@@ -13,7 +13,7 @@ npm install -g cordova
 下载项目源代码至本地
 
 ```bash
-git clone git@codehub.devcloud.huaweicloud.com:2f917ad52753444abd65ede413053506/eqiban-web-app.git
+git clone https://github.com/yj666/ionic3_app.git
 cd ionic3_app
 npm install
 ```
