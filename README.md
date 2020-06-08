@@ -24,6 +24,18 @@ npm install
 ionic serve
 ```
 
+环境安装好之后，执行
+
+```bash
+cordova platform add android@6.3.0
+```
+
+要生成 apk 包，执行
+
+```bash
+ionic cordova build android
+```
+
 ## 2.ionic快速集成极光推送
 
 [PhoneGap 的插件文档地址](https://github.com/jpush/jpush-phonegap-plugin)
